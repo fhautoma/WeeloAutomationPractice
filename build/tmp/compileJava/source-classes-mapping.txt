@@ -1,0 +1,16 @@
+co/com/weelo/questions/ValidateTextField.java
+ co.com.weelo.questions.ValidateTextField
+co/com/weelo/userinterfaces/EveningDresses.java
+ co.com.weelo.userinterfaces.EveningDresses
+co/com/weelo/userinterfaces/HomePageYourLogo.java
+ co.com.weelo.userinterfaces.HomePageYourLogo
+co/com/weelo/utils/ErrorMessage.java
+ co.com.weelo.utils.ErrorMessage
+co/com/weelo/tasks/AgregarVestidoACarrito.java
+ co.com.weelo.tasks.AgregarVestidoACarrito
+co/com/weelo/exceptions/GeneralDemoException.java
+ co.com.weelo.exceptions.GeneralDemoException
+co/com/weelo/utils/Constants.java
+ co.com.weelo.utils.Constants
+co/com/weelo/tasks/BuscarVestido.java
+ co.com.weelo.tasks.BuscarVestido
